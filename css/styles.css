@@ -498,11 +498,13 @@ progress {
   font-weight: 300;
   line-height: 1.2;
 }
+
+/*
 @media (min-width: 1200px) {
   .display-2 {
     font-size: 4.5rem;
   }
-}
+} */
 
 .display-3 {
   font-size: calc(1.525rem + 3.3vw);
@@ -3805,6 +3807,7 @@ textarea.form-control-lg {
   flex-basis: 100%;
   flex-grow: 1;
   align-items: center;
+  background-color: #e364c0;
 }
 
 .navbar-toggler {
